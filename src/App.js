@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Entra <code>src/App.js</code> aaa.
+          Bienvenido <code>src/App.js</code> Sigmove.
         </p>
         <a
           className="App-link"
